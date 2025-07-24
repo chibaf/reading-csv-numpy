@@ -1,5 +1,7 @@
 # reading-csv-numpy
 
+
+## references
 NumPy: Read and write CSV files (np.loadtxt, np.genfromtxt, np.savetxt) | note.nkmk.me
 https://note.nkmk.me/en/python-numpy-loadtxt-genfromtxt-savetxt/
 
